@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "title": "Additional Service Worker Builder",
+  "description": "Service worker options",
+  "type": "object",
+  "properties": {
+    "browserTarget": {
+      "type": "string",
+      "description": "Target to build.",
+      "pattern": "^[^:\\s]+:[^:\\s]+(:[^\\s]+)?$"
+    }
+  },
+  "required": [
+    "browserTarget"
+  ],
+  "additionalProperties": false
+}

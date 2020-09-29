@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/@angular-devkit/architect/src/builders-schema.json",
+  "builders": {
+    "service-worker": {
+      "implementation": "./index",
+      "schema": "./schema.json",
+      "description": "Additional service worker builder."
+    }
+  }
+}
