@@ -9,7 +9,7 @@ for https://github.com/angular/universal/issues/1505
 Install the builder package.
 
 ```shell script
-$ npm i additional-service-worker-builder
+$ npm i additional-service-worker-builder -D --save
 ```
 
 Add command in `angular.json`.
