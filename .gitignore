@@ -1,6 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
+index.js
+*.d.ts
+*.js.map
+
 ### Node template
 # Logs
 logs
