@@ -2,7 +2,7 @@
 
 for https://github.com/angular/universal/issues/1505
 
-⚠️️⚠️️⚠️️This Builder No Long-term Maintenance Plans⚠️️⚠️️⚠️️
+⚠️️⚠️️⚠️️ ️️This Builder is Non-LTS ⚠️️⚠️️⚠️️
 
 ## Use
 
